@@ -1,4 +1,4 @@
-# Personal_Projects
+# Projects
 
 This respository holds the projects I completed during my training at UMBC. 
 
